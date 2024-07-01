@@ -1,3 +1,15 @@
+---
+title: Document QnA RAG Application
+emoji: 🤖
+colorFrom: purple
+colorTo: indigo
+sdk: streamlit
+sdk_version: 1.36.0
+app_file: app.py
+pinned: false
+license: mit
+---
+
 # Document-Q-A-RAG
 
 This Document Q&A RAG Application is totally made out of open-source tools and libraries. All the tools and libraries are discussed below. 
