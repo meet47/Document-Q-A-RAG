@@ -80,4 +80,4 @@ if user_input and st.session_state.vector_store is not None:
     # Output for the User
     st.write(response['answer'])
 
-
+st.caption('Made with ❤️ by @Meet Bardoliya')
